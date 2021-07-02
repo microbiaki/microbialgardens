@@ -1,1 +1,3 @@
-# microbialgardens
+# Microbial gardens
+
+Farm microorganisms at home
