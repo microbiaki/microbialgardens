@@ -4,6 +4,6 @@ navbar:
   left:
     - text: "Winogradsky"
       href: index.html
-    - text: "Prepation"
+    - text: "Preparation"
       href: preparation.html
 output_dir: "."
