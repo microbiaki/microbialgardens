@@ -1,0 +1,9 @@
+name: "Microbial farming"
+navbar:
+  title: "DIY Microbial gardens"
+  left:
+    - text: "Winogradsky"
+      href: index.html
+    - text: "Prepation"
+      href: preparation.html
+output_dir: "."
