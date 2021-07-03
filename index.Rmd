@@ -1,5 +1,14 @@
 ---
-title: "Welcome"
+pagetitle: "Winogradsky columns"
+output:
+  html_document:
+    toc: false
+    code_folding: null
+    number_sections: false
 ---
 
-Hello, Website!
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Overview {.unnumbered}
